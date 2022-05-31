@@ -13,7 +13,7 @@ Dashboard desenvolvido em **ReactJs** com **TypeScript** inteiramente componenti
 
 
 Não há banco de dados. Os dados são carregados de 2 arquivos que contém arrays simulando os repositórios de dados, assim carregando as informações dos relatórios e dos gráficos do sistema.
-**Obs: Os dados tem que estar com o ano atual para os relatórios e os gráficos sejam carregados nas telas do sistema.**
+**Obs: Os dados devem estar com o ano atual para que os relatórios e os gráficos sejam carregados nas telas do sistema.**
 
 ### Layout & Componentes Responsivos
 
