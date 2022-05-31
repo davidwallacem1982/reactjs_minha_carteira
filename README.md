@@ -26,6 +26,10 @@ Não há banco de dados. Os dados são carregados de 2 arquivos que contém arra
 - [x] Os gráficos foram criados utilizado uma bibliteca chamada [**Recharts**](http://recharts.org/en-US), ele é opensource.
 - [x] Para efeito de número crescendo foi utilizado o [**React CountUp**](https://www.npmjs.com/package/react-countup).
 
+### Testando sistema postado no Vercel
+
+- [x] Você pode visualizar o sistema rodando clicando aqui em [**Minha Carteira**](https://reactjs-minha-carteira.vercel.app/), 
+esse link de so sistema postado no Vercel para testes de funcionalidades do sistemas online.
 
 <div align="center">
   <small>David Wallace Marques Ferreira - 2021</small>
