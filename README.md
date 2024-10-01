@@ -1,6 +1,7 @@
 <div align="center" >
   <img src="./docs/assets/logo.png" width="200">
 </div>
+
 # Dashboard Financeiro - **Minha Carteira**
 
 **Versão Atual:** 1.0.0  
