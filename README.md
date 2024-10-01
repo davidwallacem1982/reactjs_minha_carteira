@@ -87,6 +87,7 @@ Para acessar o sistema, utilize as seguintes credenciais:
    http://localhost:3000
    ```
 
+
 <h2 id="contribute">Contribuição 🚀</h2>
 
 Se você quiser contribuir, clone este repository, crie seu branch de trabalho e coloque a mão na massa!
@@ -117,12 +118,12 @@ Ao final, abra um Pull Request explicando o problema resolvido ou recurso realiz
 [Commit pattern](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
 
 
+
 <h2 id="license">License 📃 </h2>
 
 Este projeto é licenciado sob a licença MIT. Consulte o arquivo [MIT](./LICENSE) para mais detalhes.
 
+
 ## Contato do Desenvolvedor
-<div align="center" >
   David Wallace Marques Ferreira  
   [LinkedIn](https://linkedin.com/in/david-wallace-marques-ferreira) | [GitHub](https://github.com/davidwallacem1982)
-</div>
