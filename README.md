@@ -1,12 +1,8 @@
-<div align="center" >
-  <img src="./docs/assets/logo.png" width="200">
-</div>
-
-# Dashboard Financeiro - **Minha Carteira**
+# Dashboard Financeiro - **Minha Carteira** 🚀👩‍💻&middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/main/LICENSE)
 
 **Versão Atual:** 1.0.0  
 **Data de Lançamento:** 2021  
-**Desenvolvedor:** David Wallace Marques Ferreira
+**Desenvolvedor:** David Wallace Marques Ferreira [LinkedIn](https://linkedin.com/in/david-wallace-marques-ferreira) | [GitHub](https://github.com/davidwallacem1982)
 
 
 ## Descrição
@@ -122,8 +118,3 @@ Ao final, abra um Pull Request explicando o problema resolvido ou recurso realiz
 <h2 id="license">License 📃 </h2>
 
 Este projeto é licenciado sob a licença MIT. Consulte o arquivo [MIT](./LICENSE) para mais detalhes.
-
-
-## Contato do Desenvolvedor
-  David Wallace Marques Ferreira  
-  [LinkedIn](https://linkedin.com/in/david-wallace-marques-ferreira) | [GitHub](https://github.com/davidwallacem1982)
