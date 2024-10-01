@@ -36,11 +36,6 @@ Este projeto é um **dashboard financeiro** desenvolvido utilizando **ReactJs** 
 - **Gráficos dinâmicos**: Os gráficos são gerados a partir dos dados simulados, e são atualizados automaticamente conforme os dados são carregados.
 - **Efeito visual de contagem**: Para exibir valores financeiros, o efeito de contagem crescente foi implementado utilizando o **React CountUp**.
 
-### Layout & Componentes Responsivos
-
-- [x] Os gráficos foram criados utilizado uma bibliteca chamada [**Recharts**](http://recharts.org/en-US), ele é opensource.
-- [x] Para efeito de número crescendo foi utilizado o [**React CountUp**](https://www.npmjs.com/package/react-countup).
-
 ## Pré-visualização
 
 - [x] Você pode visualizar o sistema rodando clicando aqui em [**Minha Carteira**](https://reactjs-minha-carteira.vercel.app/), 
@@ -51,6 +46,11 @@ Todos os componentes e o layout da aplicação foram projetados para serem respo
 <div align="center" >
   <img src="./docs/assets/resposiveview.png">
 </div>
+
+### Bibliotecas Utilizadas
+
+- [x] Recharts: Biblioteca para a criação de gráficos dinâmicos e interativos. [**Recharts**](http://recharts.org/en-US), ele é opensource.
+- [x] React CountUp: Biblioteca para exibir animações de contagem crescente em números [**React CountUp**](https://www.npmjs.com/package/react-countup).
 
 ## Credenciais de Acesso
 
@@ -85,3 +85,8 @@ Para acessar o sistema, utilize as seguintes credenciais:
    ```bash
    http://localhost:3000
    ```
+
+## Contato do Desenvolvedor
+
+David Wallace Marques Ferreira  
+[LinkedIn](https://linkedin.com/in/david-wallace-marques-ferreira) | [GitHub](https://github.com/davidwallacem1982)
